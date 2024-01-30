@@ -49,6 +49,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="0"
+          data-year="2019"
         >
           <div>
             Jan
@@ -57,6 +58,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="1"
+          data-year="2019"
         >
           <div>
             Feb
@@ -65,6 +67,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="2"
+          data-year="2019"
         >
           <div>
             Mar
@@ -75,6 +78,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="3"
+          data-year="2019"
         >
           <div>
             Apr
@@ -83,6 +87,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="4"
+          data-year="2019"
         >
           <div>
             May
@@ -91,6 +96,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="5"
+          data-year="2019"
         >
           <div>
             Jun
@@ -101,6 +107,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="6"
+          data-year="2019"
         >
           <div>
             Jul
@@ -109,6 +116,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="7"
+          data-year="2019"
         >
           <div>
             Aug
@@ -117,6 +125,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="8"
+          data-year="2019"
         >
           <div>
             Sep
@@ -127,6 +136,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell active"
           data-month="9"
+          data-year="2019"
         >
           <div>
             Oct
@@ -135,6 +145,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="10"
+          data-year="2019"
         >
           <div>
             Nov
@@ -143,6 +154,7 @@ exports[`TableMonth correct render 1`] = `
         <td
           class="cell"
           data-month="11"
+          data-year="2019"
         >
           <div>
             Dec
